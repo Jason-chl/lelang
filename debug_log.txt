@@ -1,0 +1,26 @@
+{"POST":{"nama_barang":"aa","harga_awal":"12314231"},"FILES":{"foto":{"name":"4273.jpg","full_path":"4273.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php49F.tmp","error":0,"size":191939}}}
+=== [2025-05-20 09:43:17] ===
+POST: {"nama_barang":"aa","harga_awal":"123132132131"}
+FILES: {"foto":{"name":"4578.jpg","full_path":"4578.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php988F.tmp","error":0,"size":173834}}
+UPLOAD OK: uploads/1747726997_4578.jpg
+DB INSERT OK
+=== [2025-05-20 09:58:28] ===
+POST: {"nama_barang":"aa","tgl":"2025-10-09","harga_awal":"1231341413213"}
+FILES: {"foto":{"name":"christy.jpeg","full_path":"christy.jpeg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php7EE9.tmp","error":0,"size":804340}}
+UPLOAD OK: uploads/1747727908_christy.jpeg
+PDO ERROR: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+=== [2025-05-20 09:58:43] ===
+POST: {"nama_barang":"aa","tgl":"2025-05-07","harga_awal":"1231313123"}
+FILES: {"foto":{"name":"4273.jpg","full_path":"4273.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpB8B7.tmp","error":0,"size":191939}}
+UPLOAD OK: uploads/1747727923_4273.jpg
+PDO ERROR: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+=== [2025-05-20 09:58:54] ===
+POST: {"nama_barang":"aa","tgl":"2025-05-07","harga_awal":"1231313123"}
+FILES: {"foto":{"name":"4273.jpg","full_path":"4273.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpE3A0.tmp","error":0,"size":191939}}
+UPLOAD OK: uploads/1747727934_4273.jpg
+PDO ERROR: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+=== [2025-05-20 09:59:56] ===
+POST: {"nama_barang":"asdaewe","tgl":"2025-05-01","harga_awal":"123131331321321"}
+FILES: {"foto":{"name":"4273.jpg","full_path":"4273.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\phpD90E.tmp","error":0,"size":191939}}
+UPLOAD OK: uploads/1747727997_4273.jpg
+DB INSERT OK

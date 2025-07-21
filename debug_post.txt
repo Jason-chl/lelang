@@ -1,0 +1,5 @@
+Array
+(
+    [id_user] => <br />
+<b>Warning</b>:  Undefined array key 
+)
